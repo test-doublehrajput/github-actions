@@ -1,4 +1,4 @@
-name: "Shell Commands"
+name: "On Pull Request Workflow"
 
 on: [pull_request]
 

@@ -1,4 +1,4 @@
-name: "Shell Commands"
+name: "On Push Workflow"
 
 on: [push]
 
